@@ -30,8 +30,11 @@ Visual Resources: Diagrams, flowcharts, and explanations to help visualize compl
 The repository is organized based on the series flow, with a folder for each topic:
 
 ├── Day 1 - Introduction to DSA
+
 ├── Day 2 - Flowcharts & Pseudocode
+
 ├── Day 3 - Basic Java Introduction
+
 ├── ...
 
 Each folder contains:
