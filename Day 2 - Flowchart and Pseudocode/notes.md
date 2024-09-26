@@ -1,1 +1,2 @@
-
+Checkout the follwing link for notes
+https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtLzcyNjRkNzc2Y2FjZjQzMTliNzk0Yzg2M2ZkZDU0ZDgyX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9jODRiNmY1Ni0xZjhjLTQxMDYtOTg0OC02ZTRiNDBmMTc1NTc=
